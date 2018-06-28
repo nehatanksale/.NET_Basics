@@ -11,7 +11,7 @@ namespace Practice_Core
 
             var p = new Program()
             {
-                name = "John";                     //initialsed here
+                name = "John"                    //initialsed here
             };
 
 
